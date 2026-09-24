@@ -1,3 +1,6 @@
+![Python](https://shields.io)
+![GitHub](https://shields.io)
+
 # 🎓 Student Attendance Management System
 
 A sleek, intuitive, and efficient desktop application built using **Python** and **Tkinter** designed to streamline tracking student daily attendance records. This tool simplifies database management, automates entry logging, and provides quick data exports for academic administration.
